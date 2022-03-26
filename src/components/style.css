@@ -1,0 +1,149 @@
+.wrap{
+  
+    background-color: bisque;
+    border: 2rem;
+    border-radius: 2rem;
+    height: 85vh;
+    width: 80%;
+    margin-left: 10rem;
+    margin-top: 5rem;
+
+
+ 
+
+}
+.ui{
+
+    width: 100%;
+  
+}
+.header{
+    text-align: center;
+    margin-left: 35rem;
+
+}
+.search{
+    text-align: center;
+    margin-top: 20px;
+    padding: 2rem;
+}
+#search{
+    height: 2.5rem;
+    width: 20rem;
+    border-radius: 1rem;
+
+}
+.btn-search{
+    border-radius: 1rem;
+    height: 2.5rem;
+    background-color: aquamarine;
+
+}
+.btn-search:hover{
+    background-color: brown;
+    color: aliceblue;
+}
+.main{
+    background-color: aliceblue;
+    height: 20vh;
+    width: 100%;
+    text-align: center;
+
+}
+.img-weather{
+    height: 20vh;
+    width: 20%;
+}
+.weather-info{
+    height: 20vh;
+    background-color: black;
+    color: white;
+    width: 50%;
+    float: left;
+    display: flex;
+}
+.tempreture{
+    margin: 3rem;
+}
+.tempreture span{
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
+.description{
+   margin: 3rem;
+   font-weight: bold;
+}
+.date-time{
+    height: 20vh;
+    background-color: brown;
+
+}
+.current{
+    margin: 20px;
+    width: 30%;
+    float: right;
+}
+.date{
+    height: 20vh;
+    background-color: darksalmon;
+}
+.date-sec{
+    margin: 5rem;
+    text-align: center;
+    margin-right: -2rem;
+    color: black;
+    font-size: xx-large;
+    padding: 2rem;
+    padding-left: 2rem;
+   
+}
+.extra-info{
+
+margin-bottom: 2rem;
+   display: flex;
+   margin-block-start: 3rem;
+   width: 100%;
+  
+}
+.sunset{
+    height: 4rem;
+    width: 4rem;
+    color: bisque;
+    margin-left: 30px;
+
+}
+.temp-info{
+    margin-left: 7rem;
+}
+.info-left{
+    margin-bottom: 5rem;
+    margin: 2rem;
+    font-weight: bold;
+    font-size: larger;
+}
+.info-left{
+    width: 8rem;
+}
+
+    
+
+
+.footer{
+    margin-top: 2rem;
+    height: 5rem;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: azure;
+    text-align: center;
+
+}
+h5{
+    margin-top: 10rem;
+    padding-top: 2rem;
+}
+h5 span{
+    color: brown;
+
+}
